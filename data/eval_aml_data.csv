@@ -1,0 +1,15 @@
+﻿customer_id,country_of_residence,country_of_birth,trasnaction_amount,transaction_country,transaction_category,transaction_country_category,transaction_origin_currency,transaction_date,transaction_type,transaction_business,average_monthly_transaction,alert_flag
+128,Germany,Germany,27424,Germany,Interbank,inCountry,EUR,2023-06-09,Cash,FMCG,20000,N
+129,India,Iran,45584,India,Interbank,ExternalNonSanctioned,INR,2023-06-10,Digital,RealEstate,5000,Y
+130,Iran,Iran,33981,Iran,Interbank,inCountry,Rial,2023-06-26,Cash,Automobile,20000,Y
+134,USA,India,40465,USA,Intrabank,ExternalNonSanctioned,USD,2023-06-01,Digital,Automobile,20000,Y
+135,Germany,Germany,13233,Germany,Interbank,ExternalNonSanctioned,EUR,2023-06-13,Digital,Education,20000,Y
+137,India,India,41213,India,Intrabank,ExternalNonSanctioned,INR,2023-06-06,Digital,Travel,20000,Y
+139,UK,Germany,28260,UK,Intrabank,ExternalNonSanctioned,GBP,2023-06-02,Digital,Automobile,5000,Y
+140,USA,Germany,27550,USA,Interbank,ExternalNonSanctioned,USD,2023-06-05,Digital,Travel,20000,Y
+141,UK,India,4789,UK,Interbank,ExternalNonSanctioned,GBP,2023-06-26,Digital,RealEstate,30000,Y
+144,UK,Germany,29496,UK,Interbank,ExternalNonSanctioned,GBP,2023-06-07,Digital,FMCG,30000,Y
+145,India,India,42948,India,Intrabank,ExternalNonSanctioned,INR,2023-06-28,Digital,Automobile,20000,Y
+146,USA,Iran,11472,USA,Intrabank,ExternalSanctioned,USD,2023-06-09,Digital,Travel,40000,Y
+148,Germany,India,31761,Germany,Intrabank,inCountry,EUR,2023-06-18,Cash,FMCG,10000,Y
+149,Germany,Germany,32393,Germany,Interbank,ExternalSanctioned,EUR,2023-06-19,Digital,RealEstate,30000,Y
